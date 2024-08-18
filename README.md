@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20870
-Fork on GitHub
-6448
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

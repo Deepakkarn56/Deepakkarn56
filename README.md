@@ -1,71 +1,104 @@
-<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">🤖 Automation Tester | Learning AI-Powered Testing with Playwright</h3>
-<p align="center">📍 India &nbsp;•&nbsp; 🚀 Mastering test automation frameworks & AI-driven QA</p>
+<div align="center">
+
+# Hi there, I'm Deepak Kumar 👋
+
+### 🎭 Automation Tester | 🤖 AI + Playwright Learner | ⚛️ Frontend Dev | 🇮🇳 India
+
+[![Profile Views](https://komarev.com/ghpvc/?username=deepakkarn56&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/deepakkarn56)
+[![GitHub followers](https://img.shields.io/github/followers/deepakkarn56?label=Followers&style=social)](https://github.com/deepakkarn56)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EAD33&center=true&vCenter=true&width=600&lines=🤖+Automating+tests+with+Playwright...;🎭+Learning+AI-powered+QA+strategies...;🔧+Building+self-healing+test+frameworks...;🚀+Frontend+dev+turned+automation+tester!)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 🔭 About Me
+## 🙋 About Me &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 Currently Learning
 
-- 🤖 Automation tester passionate about building robust, scalable test frameworks
-- 🎭 Currently learning **Playwright** with AI-powered testing strategies
-- 🌱 Exploring **AI in QA** — smart selectors, self-healing tests & LLM-assisted testing
-- 💡 Frontend background in React, HTML/CSS, JavaScript
-- 🤝 Open to collaborate on **test automation & QA open-source projects**
-- 📬 Reach me: **deepakkarn56@gmail.com**
+| About Me | Currently Learning |
+|---|---|
+| 🔍 QA Automation engineer | 🎭 Playwright (advanced patterns) |
+| 🎭 Deep diving into **Playwright** | 🤖 AI-powered test generation |
+| 🤖 Passionate about AI in testing | 🔧 Self-healing locators |
+| 💻 Frontend roots (React, JS) | 🔗 API automation |
+| 📬 deepakkarn56@gmail.com | 📦 CI/CD with GitHub Actions |
 
 ---
 
-### 🧪 Automation & Testing Stack
+## 🧪 Automation & Testing Stack
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ---
 
-### 🤖 AI & Playwright Focus Areas
+## 🤖 AI + Playwright Focus
 
-![AI Test Gen](https://img.shields.io/badge/AI--Powered_Test_Gen-6366f1?style=for-the-badge)
-![Self Healing](https://img.shields.io/badge/Self--Healing_Tests-10b981?style=for-the-badge)
-![LLM + Playwright](https://img.shields.io/badge/LLM_+_Playwright-f59e0b?style=for-the-badge)
-![Visual AI Testing](https://img.shields.io/badge/Visual_AI_Testing-ef4444?style=for-the-badge)
-![BDD Cucumber](https://img.shields.io/badge/BDD_/_Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-0EA5E9?style=for-the-badge)
-
----
-
-### 🖥️ Frontend & Tools
-
-<p>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></a>
-<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/></a>
-<a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
-<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/></a>
-<a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/></a>
-</p>
+![AI Test Generation](https://img.shields.io/badge/AI_Test_Generation-6366f1?style=flat-square)
+![Self-Healing Tests](https://img.shields.io/badge/Self--Healing_Tests-10b981?style=flat-square)
+![LLM + Playwright](https://img.shields.io/badge/LLM_+_Playwright-f59e0b?style=flat-square)
+![Visual AI Testing](https://img.shields.io/badge/Visual_AI_Testing-ef4444?style=flat-square)
+![Smart Locators](https://img.shields.io/badge/Smart_Locators-8b5cf6?style=flat-square)
+![BDD / Cucumber](https://img.shields.io/badge/BDD_%2F_Cucumber-23D96C?style=flat-square)
+![Page Object Model](https://img.shields.io/badge/Page_Object_Model-64748b?style=flat-square)
+![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD_Pipelines-0f172a?style=flat-square)
 
 ---
 
-### 📊 GitHub Stats
+## 🖥️ Frontend & Dev Tools
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkarn56&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkarn56&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkarn56" alt="GitHub Streak" />
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=fff)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
 
 ---
 
-<p align="center">⭐ Testing the future, one script at a time.</p>
+## 🗺️ Learning Roadmap 2025
+
+| Status | Goal |
+|--------|------|
+| ✅ Done | Playwright basics & core concepts |
+| ✅ Done | API test automation with Postman |
+| 🔄 In Progress | Playwright + AI integration |
+| 🔄 In Progress | CI/CD with GitHub Actions |
+| ⏳ Upcoming | Visual regression testing |
+| ⏳ Upcoming | Performance testing basics |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakkarn56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkarn56&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkarn56&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepakkarn56&theme=tokyo-night&hide_border=true&area=true)](https://github.com/deepakkarn56)
+
+---
+
+<div align="center">
+
+💬 *"Quality is not an act, it is a habit."*
+
+⭐ From [deepakkarn56](https://github.com/deepakkarn56) — Testing the future, one script at a time 🚀
+
+</div>
